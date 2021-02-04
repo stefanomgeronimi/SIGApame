@@ -1,0 +1,126 @@
+.list{
+    width:45%;
+    background-color:darkolivegreen;
+    display:flex;
+    color:white;
+    height:100%;
+}
+
+.list ul{
+    list-style:none;
+    padding:0;
+    width:100%;
+}
+
+.list ul li{
+    padding-left:10px;
+    display:flex;
+    align-items:center;
+    height:30px;
+}
+
+#cabecalho{
+    background-color:rgb(163, 216, 185);
+    border: 1px solid black;
+    color:black
+}
+
+.list ul li:nth-child(2){
+    background-color: lightseagreen;
+    color:black;
+    border-right:1px solid black;
+    border-left:1px solid black;
+}
+
+.list ul li:nth-child(3){
+    background-color: lightseagreen;
+    color:black;
+    border-right:1px solid black;
+    border-left:1px solid black;
+    border-bottom:1px solid black;
+}
+
+.list ul li:nth-child(4){
+    background-color: pink;
+    color:black;
+    border-right:1px solid black;
+    border-left:1px solid black;
+}
+
+.list ul li:nth-child(5){
+    background-color: pink;
+    color:black;
+    border-right:1px solid black;
+    border-left:1px solid black;
+    border-bottom:1px solid black
+}
+
+.list ul li:nth-child(6){
+    background-color:white
+}
+
+.list ul li:nth-child(7){
+    border:1px solid black;
+    background-color: rgb(163, 216, 185);
+    color:black;
+}
+
+.list ul li:nth-child(8){
+    background-color:tomato;
+    color:black;
+    border-right:1px solid black;
+    border-left:1px solid black;
+}
+
+.list ul li:nth-child(9){
+    background-color: tomato;
+    color:black;
+    border-right:1px solid black;
+    border-left:1px solid black;
+    border-bottom:1px solid black;
+}
+
+.list ul li:nth-child(10){
+    background-color:yellow;
+    color:black;
+    border-right:1px solid black;
+    border-left:1px solid black;
+}
+
+.list ul li:nth-child(11){
+    background-color: yellow;
+    color:black;
+    border-right:1px solid black;
+    border-left:1px solid black;
+    border-bottom:1px solid black;
+}
+
+.list ul li:nth-child(12){
+    background-color:slateblue;
+    color:black;
+    border-right:1px solid black;
+    border-left:1px solid black;
+}
+
+.list ul li:nth-child(13){
+    background-color: slateblue;
+    color:black;
+    border-right:1px solid black;
+    border-left:1px solid black;
+    border-bottom:1px solid black;
+}
+
+.list ul li:nth-child(14){
+    background-color:orange;
+    color:black;
+    border-right:1px solid black;
+    border-left:1px solid black;
+}
+
+.list ul li:nth-child(15){
+    background-color: orange;
+    color:black;
+    border-right:1px solid black;
+    border-left:1px solid black;
+    border-bottom:1px solid black;
+}
